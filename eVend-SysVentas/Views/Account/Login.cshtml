@@ -1,8 +1,43 @@
 ﻿@model Usuario;
 @*
     Requerimientos:
-        • [Completado]
-        • []
+      [1][Diseño de Interfaces UI / UX]
+        • [Resuelto] El usuario no debería poder visualizar la contraseña; esta debe permanecer oculta.
+        • [Resuelto] Al momento de insertar el PIN, este debe mostrarse claramente y con un tamaño grande para facilitar su visualización.
+        • [No Resuelto] El usuario deberá de tener acceso a las secciones de soporte para recibir atención en caso de cualquier problema.
+        • [Resuelto] EL usuario deberá poder iniciar el proceso de registro para adaquirir el producto de forma clara y directa.
+        • [Resuelto] El usuario deberá poder acceder rápida y directamente a la aplicación desde cualquier dispositivo, ya sea móvil o de escritorio.
+        • [Resuelto] La aplicación deberá ser responsiva, garantizando una experiencia de uso fluida y sin conflictos en diferentes dispositivos.
+        • [Resuelto] Se debe garantizar una experiencia rápida de ingreso, permitiendo al usuario iniciar sesión en menos de un minuto.
+        • [Resuelto] Se debe minimizar la necesidad de soporte técnico mediante una interfaz rápida e intuitiva que facilite al usuario ingresar su PIN correctamente.
+        • [No Resuelto] La información en la pantalla de inicio de sesión deberá de ser puntual, fácil de entender y libre de términos técnicos inncesarios.
+        • [No Resuelto] El usuario deberá de poder recuperar o restablecer su PIN de manera segura y fácil en caso de olvido, sin requerir pasos complejos.
+        • [Resuelto] El sistema deberá ser probado en diferentes navegadores y dispositivos para asegurar una experiencia consistente y sin errores.
+
+
+      [2][Diseño de Código Lógico]
+        • [No Resuelto] El sistema deberá de bloquear temporalmente la cuenta después de varios intentos fallidos para proteger contra ataques de fuerza bruta.
+        • [No Resuelto] El sistema deberá validar el formato del PIN ingresado y emitir un mensaje claro en caso de errores, evitando revelar información sensible.
+        • [No Resuelto] El sistema deberá incluir una funcionalidad para limitar los intentos de ingreso por IP en caso de detectar comportamientos sospechosos.
+        • [No Resuelto] El sistema deberá manejar tiempos de espera progresivos tras intentos fallidos consecutivos (ejemplo: 5 segundos, 15 segundos, 30 segundos).
+
+      [3][Diseño de Código Seguridad]
+        • [No Resuelto] El PIN no deberá almacenars en texto plano; deberá ser cifrado utilizando un algoritmo robusto como bycript.
+        • [No Resuelto] La trasnmisión del PIN entre el cliente y servidor deberá realizarse mediante una conexión segura utilizando HTTPS.
+        • [No Resuelto] El sistema deberá protegerse contra ataques de "replay" implementando tokens únicos por sesión y verificaciones en tiempo real.
+        • [No Resuelto] La aplicación deberá implementar una política de seguridad que obligue a los usuarios a configurar un PIN con ciertas características de fortaleza.
+
+      [4][Diseño de Posible Refactoring]
+        • [No Resuelto] EL código deberá estructurarse en módulos reutilizables para garantizar su mantenimiento y escabilidad.
+        • [No Resuelto] El manejo de errores deberá estar centralizado para reducir redundnacias y garantizar mensajes consistentes.
+        • [No Resuelto] Deberán identificarse y eliminarse dependencias cíclicas en el diseño lógico del sistema.
+  • [No Resuelto] El sistema debéra utilizar patrones de diseño como MVC para mejorar la organización del código.
+
+      [5][Posibles Integraciones Extras]
+        • [No Resuelto] La aplicación deberá integrarse con sistemas de autentificación en dispositivos compatibles.
+        • [No Resuelto] Deberá implementarse un servicio de notificaciones por correo o SMS para alertar al usuario sobre intentos fallidos o accesos desde dispositivos desconocidos.
+        • [No Resuelto] Se integrará un sistema de análisis de actividad basado en machine learning para identificar posibles patrones de comportamiento malicioso.
+        • [No Resuelto] La plataforma deberá ser compatible con herramientas de autentificación de terceros como Google Authenticator para 2FA.
 *@
 @{
     ViewData["Title"] = "Iniciar Sesión";
@@ -130,7 +165,7 @@
 
     function enviarPeticionPOST(pin) {
         fetch('/verificar-pin', {
-            method: 'POST',
+            method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
             },

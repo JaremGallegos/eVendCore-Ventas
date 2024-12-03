@@ -171,3 +171,8 @@ d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\obj\De
 d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\obj\Debug\net8.0\eVend-SysVentas.pdb
 d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\obj\Debug\net8.0\eVend-SysVentas.genruntimeconfig.cache
 d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\obj\Debug\net8.0\ref\eVend-SysVentas.dll
+d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\bin\Debug\net8.0\Alpine.TagHelpers.dll
+d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\bin\Debug\net8.0\HeroiconsTagHelper.dll
+d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\bin\Debug\net8.0\JetBrains.Annotations.dll
+d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\bin\Debug\net8.0\Pines.TagHelpers.dll
+d:\CarpetaProtegida\CPO-2\Proyectos-2024\eVendCore-Ventas\eVend-SysVentas\obj\Debug\net8.0\eVend-SysVentas.MvcApplicationPartsAssemblyInfo.cs

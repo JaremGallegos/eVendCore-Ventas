@@ -7,9 +7,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewData["Title"]</title>
-    <partial name="_Imports" />
 </head>
-    <body>
-        <h1>Hola</h1>
-    </body>
+<body>
+    <!-- #Modulo Principal de Ventas -->
+    <div class="min-h-screen bg-gray-100 flex flex-col">
+        <!-- #Encabezado General del Sistema -->
+        <partial name="Partial/_Header" />
+        
+        <main class="flex-1 p-6">
+            <div class="max-w-7xl mx-auto">
+                <partial name="Partial/_Main" />
+            </div>
+        </main>
+    </div>
+    <!-- #Fin Modulo Principal -->
+</body>
 </html>

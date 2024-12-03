@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Alpine.TagHelpers": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
             "MathNet.Numerics": {
               "target": "Package",
               "version": "[6.0.0-beta1, )"
@@ -68,6 +72,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "Pines.TagHelpers": {
+              "target": "Package",
+              "version": "[0.4.1, )"
             },
             "Tailwind.Extensions.AspNetCore": {
               "target": "Package",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eVend-SysVentas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fe61dcb37743a77f814e672bcacf59d3a8390cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e409454f082052f6d1c5b1d6886c8d38ed808e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("eVend-SysVentas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eVend-SysVentas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

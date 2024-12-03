@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q2uuL/UyNR0A3lXg2uUetO0+pw7ooAW+/gR1z3Gz3EA=",
+  "Hash": "+jNf0y60MdGiqfLVQLY81txWvtI4iRJSteHExP3YP2k=",
   "Source": "eVend-SysVentas",
   "BasePath": "_content/eVend-SysVentas",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "eVend-SysVentas\\wwwroot",
       "Source": "eVend-SysVentas",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eVend-SysVentas.styles.css",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eVend-SysVentas.styles.css",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Computed",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "eVend-SysVentas.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eVend-SysVentas.styles.css"
+      "OriginalItemSpec": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eVend-SysVentas.styles.css"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eVend-SysVentas.bundle.scp.css",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eVend-SysVentas.bundle.scp.css",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Computed",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "eVend-SysVentas.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eVend-SysVentas.bundle.scp.css"
+      "OriginalItemSpec": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eVend-SysVentas.bundle.scp.css"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\css\\site.css",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\css\\site.css",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\favicon.ico",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\favicon.ico",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\js\\site.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\js\\site.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "eVend-SysVentas",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
+      "ContentRoot": "D:\\CarpetaProtegida\\CPO-2\\Proyectos-2024\\eVendCore-Ventas\\eVend-SysVentas\\wwwroot\\",
       "BasePath": "_content/eVend-SysVentas",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
